@@ -6,10 +6,15 @@ USAGE:
 Specify correct path to python-binary on the head.
 
 Open weather_widget.py and modify three parameters for your needs: 
+
 TIS_LOGIN = 'put your login here'
+
 TIS_PASSWD = 'put your password here'
+
 API_OpenWeather = 'put your APPID here from openweathermap.org'
 
 RUN:
+
 chmod +x weather_widget.py
+
 ./weather_widget.py

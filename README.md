@@ -9,9 +9,11 @@ Specify correct path to python-binary on the head.
 
 Open weather_widget.py and modify three parameters for your needs:
 
-TIS_LOGIN = 'put your login here' \n
-TIS_PASSWD = 'put your password here'\n 
-API_OpenWeather = 'put your APPID here from openweathermap.org'\n
+TIS_LOGIN = 'put your login here' 
+
+TIS_PASSWD = 'put your password here'
+
+API_OpenWeather = 'put your APPID here from openweathermap.org'
 
 RUN:
 ----

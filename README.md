@@ -1,7 +1,7 @@
 Tested under Ubuntu 14.04. 
 --------------------------
 
-GUI - app. Gives info about internet provider's balance (once per day, valid for internet provider tis-dialog.ru(Kaliningrad)), local weather (got from openweathermap.org, every 15 mins by default).
+GUI - app. Gives info about internet provider's balance (once per day, valid for internet provider tis-dialog.ru(Kaliningrad)), local weather (gets data from openweathermap.org, every 15 mins by default).
 
 USAGE:
 ------
@@ -17,5 +17,6 @@ API_OpenWeather = 'put your APPID here from openweathermap.org'
 
 RUN:
 ----
-chmod +x weather_widget.py 
+chmod +x weather_widget.py
+
 ./weather_widget.py
